@@ -1,0 +1,22 @@
+{
+  "name": "backend-task",
+  "version": "1.0.0",
+  "description": "backend task",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irfanusuf/backend-task.git"
+  },
+  "author": "irfan yousuf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irfanusuf/backend-task/issues"
+  },
+  "homepage": "https://github.com/irfanusuf/backend-task#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
